@@ -5,6 +5,8 @@ section {
 }
 
 article {
- background-color: white;
+  background-color: white;
   max-width: 33vw;
+  gap: 10px;
+  border: solid black;
 }
