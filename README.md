@@ -31,4 +31,4 @@ git init
 
 ````git clone
 ````
->Copiamos o que temos en github para traballar con eso en localsdfsadf
+>Copiamos o que temos en github para traballar con eso en local.
