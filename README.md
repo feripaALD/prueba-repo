@@ -67,3 +67,18 @@ git reset --soft HEAD~1
 git reset --hard HEAD~1
 ```
 >Desfai TODOS os cambios.
+
+```
+git branch
+``` 
+>Creamos rama secundaria
+
+```
+git checkout
+``` 
+>Cambiamos de rama
+
+```
+git merge
+``` 
+>Mesturamos os cambios de ambas ramas
